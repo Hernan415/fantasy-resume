@@ -1,0 +1,23 @@
+<link rel="stylesheet" type="text/css" href="styles.css">
+<style>
+h1 {
+    font-size:40px;
+    font-family: "Courier New", Times, serif;
+    font-weight: bold;
+    margin: 10px;
+    border: 1px solid black;
+    padding: 10px 10px;
+    content: 10px 10px 10px 10px;
+}
+h2 {
+    color: red;
+    font-size:25px;
+    font-weight: bold;
+    font-family: "Courier New", Times, serif;
+}
+h3 {
+    color: blue;
+    font-size:25px;
+    font-family: "Courier New", Times, serif;
+}
+</style>
