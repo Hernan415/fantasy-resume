@@ -1,5 +1,8 @@
 <link rel="stylesheet" type="text/css" href="styles.css">
 <style>
+body {
+  background-color: #C5EFFF
+}
 h1 {
     font-size:40px;
     font-family: "Courier New", Times, serif;
@@ -20,4 +23,5 @@ h3 {
     font-size:25px;
     font-family: "Courier New", Times, serif;
 }
+
 </style>
